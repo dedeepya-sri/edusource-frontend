@@ -1,4 +1,4 @@
-const API_URL = "https://edusource-backend.onrender.com/api";
+const API_URL = "https://edusource-backend-2-ferx.onrender.com/api";
 
 
 /**
